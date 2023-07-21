@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.body{
+  /* font-family:Arial;  */
+  background: -webkit-linear-gradient(to right, #155799, #159957); 
+  background: linear-gradient(to right, #155799, #159957); 
+  color:whitesmoke;
+}
